@@ -1,1 +1,1 @@
-# surv727_final
+This project is amied to examine the influence of public attitudes on individual attitudes in the social media context. Specifically, we utilize tweets on the topic of the omicron variant to test whether the two dimensions of the sentiment of individual tweets, (i.e. subjectivity and polarity),  change with their public counterparts.
